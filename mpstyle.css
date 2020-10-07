@@ -9,10 +9,15 @@ h1 {
   font-size: 40px:
 }
 
+h5 {
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+}
+
 hr {
   color: white;
   width: 70%;
   height: 5dp;
   margin-top: 10px;
-  
 }
