@@ -6,7 +6,7 @@ h1 {
   color: white;
   text-align: center;
   font-family: sans-serif;
-  font-size: 40px:
+  font-size: 100px:
 }
 
 h3 {
@@ -24,4 +24,24 @@ hr {
 
 .center {
   margin: auto;
+  width:100%;
+}
+
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
 }
