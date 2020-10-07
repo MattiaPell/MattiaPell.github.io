@@ -21,3 +21,7 @@ hr {
   height: 5dp;
   margin-top: 10px;
 }
+
+.center {
+  margin: auto;
+}
